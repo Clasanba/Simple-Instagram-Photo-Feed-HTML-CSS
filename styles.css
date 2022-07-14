@@ -6,17 +6,18 @@ header{
     margin:0;
     text-align: center;
 }
-.contenido {
+.card {
     background:white;
     /*margin-left:25%;
     margin-right:25%;*/
     margin: 0 auto;
     width: 400px;
     height: 400px;
+    margin-bottom: 20px;
 
 
 }
-.tfecha{
+.cabeceracard{
     display:flex;
     justify-content:space-between;
     align-items:center;
